@@ -1,4 +1,3 @@
 # sales_EDA_project
-it is data visualisation project
-data cleanig and finding null values 
+It is data visualisation project. where we have to visualize the project by data cleaning, finding null values and filling null values etc.
 
